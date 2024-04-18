@@ -1,3 +1,4 @@
+import RepostList from "./reportList";
 
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <RepostList/>
     </div>
 
   );
